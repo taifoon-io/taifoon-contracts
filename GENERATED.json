@@ -2,9 +2,9 @@
  "schema": "taifoon.generated.v1",
  "generator": "deploy/gen-contracts-mirror.mjs",
  "source": "protocols/ours/coord-sdk",
- "source_commit": "44b041529053acdb20c10cfd2e586d4434d51b27",
+ "source_commit": "c97884060bc7aa09e247ac30648c0b27b84adbd5",
  "files": {
-  ".gitignore": "d610ecafa3e1b4a18bcc9e22baff631ea437c68ea90a79973316cad814873d7a",
+  ".gitignore": "cdf9ba3cb492c71d02d13826b1095086d7ffa262e56c616602d9bff45797fb46",
   "examples/agent-job/offchain/agent-job.mjs": "e2758fb05f361653b03ef373e9bfd199cd6c3eca9d3c20df1d8ff5e630d07e6c",
   "examples/agent-job/README.md": "61109adbe50d0ecb5cd09b4f3bf34e0d7110908d25589f4fe9c3094d5db7f507",
   "foundry.toml": "6b690346f97bb0a0ac73c00de2c00999be6f1a4f353c4df0e72a2cb8c7cd2b1b",
